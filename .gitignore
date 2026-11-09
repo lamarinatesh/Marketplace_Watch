@@ -1,0 +1,8 @@
+config.yml
+.env
+user-data/
+seen.db
+bot.log
+.bot.lock
+.venv/
+__pycache__/
